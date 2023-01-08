@@ -1,5 +1,5 @@
 # Webscraping_UK.Indeed_BeautifulSoup
-it's a program that retrieves data from websites and parses it for specific data. In this project, the website, Indeed.com a popular job search website is going to be used for scrapping data.
+Web scrapping is a program that retrieves data from websites and parses it for specific data. In this project, the website, Indeed.com a popular job search website is going to be used for scrapping data.
 it is important to understand the structure of the URL before scrapping.
 URL : https://uk.indeed.com/jobs?q=data+scientist&l=London%2C+Greater+London&start=3
 here,
